@@ -1,9 +1,5 @@
 public class Animal {
-    public Animal ()sd
-    gs
-    dg
-    sg{
-        System.out.println("Soy Animal");
+    public Animal (){
+        System.out.println("Soy un animal ??");
     }
-    
 }

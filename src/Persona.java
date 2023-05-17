@@ -1,7 +1,5 @@
 public class Persona {
     public Persona (){
-        System.out.println("Soy persona nice..!");
-        System.out.println("I have issue");
-
+        System.out.println("Soy una persona nice..!");
     }
 }
